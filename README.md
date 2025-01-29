@@ -9,3 +9,4 @@
 ## См. также
 
 * [Репозиторий Yandex Cloud SDK для Node.js на GitHub](https://github.com/yandex-cloud/nodejs-sdk)
+* [Примеры](https://github.com/yandex-cloud/nodejs-sdk/tree/master/examples)
